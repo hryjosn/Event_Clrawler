@@ -8,6 +8,7 @@ import json
 pages = set()
 page_num = 1
 dataList = []
+#
 
 def getLinks():
     global pages, page_num, dataList
